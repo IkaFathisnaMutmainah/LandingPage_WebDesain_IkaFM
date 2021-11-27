@@ -1,0 +1,29 @@
+.bg-custom{
+    background-color: #1597e5 !important;
+    transition: 0.3s;
+    color: #fff !important;
+}
+
+.bg-custom:hover {
+    background-color: #193498 !important;
+    color: #fff !important;
+}
+
+.bg-active{
+    background-color: transparent !important;
+    transition: 0.3s;
+    color: #1597e5 !important;
+}
+
+.navbar{
+    width: 100%
+}
+
+.link-navbar{
+    color: #000000;
+    transition: 0.3s;
+}
+
+.link-navbar:hover{
+    color: #1597e5;
+}
